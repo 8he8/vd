@@ -8,7 +8,7 @@ Videoglancer extracts key frames from YouTube videos and organizes them into pro
 
 ## How to Use
 
-1. **Open the notebook** — Click the "Open in Colab" badge above to launch the notebook in Google Colab.
+1. **Open the notebook** — Click the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/8he8/Videoglancer.top/blob/main/videoglancer-top.ipynb) badge above to launch the notebook in Google Colab.
 2. **Run the 3 code blocks in order:**
    - **Block 1** — Downloads the project zip, installs all dependencies (FFmpeg, Python packages, etc.), and sets up everything automatically.
    - **Block 2** *(optional)* — Mounts Google Drive so you can save converted files directly to your Drive.
